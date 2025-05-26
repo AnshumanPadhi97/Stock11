@@ -1,0 +1,1 @@
+A dream11 inspired stock game, where stock prices are used to score users portfolio and create leaderboard.
